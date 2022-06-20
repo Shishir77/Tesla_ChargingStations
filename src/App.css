@@ -1,0 +1,19 @@
+.leaflet-container {
+
+  width : 100vw ; 
+  height : 100vh ; /*viewport*/
+
+}
+
+.icon-style {
+
+  background-color: #d53229;
+width: 1rem;
+height: 1rem;
+display: block;
+left: -1.5rem;
+top: -1.5rem;
+position: relative;
+border-radius: 1rem 1rem 1rem;
+opacity:0.6
+}
